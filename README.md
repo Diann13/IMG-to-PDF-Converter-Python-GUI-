@@ -112,13 +112,6 @@ Aplikasi GUI sederhana berbasis **Python** untuk mengubah file **gambar (JPG, PN
 
 ---
 
-## 📷 Preview
-
-*Add application screenshot here for better presentation.*
-
-*Tambahkan screenshot aplikasi di sini agar repo terlihat lebih profesional.*
-
----
 
 ## 📜 License | Lisensi
 
